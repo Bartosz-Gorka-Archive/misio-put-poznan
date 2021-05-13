@@ -1,3 +1,5 @@
+# BASED ON https://github.com/mihahauke/misio_labs
+
 # Metody Inteligencji Sztucznej i Obliczeniowej
 ![MISIO](bear.png)
 This repository contains resources necessary to complete Artificial Intelligence courses (MISiO) at Poznan University of Technology.
